@@ -1,5 +1,5 @@
-[<< Previous](DataFind.md) | [Next >>]
+[<< Previous](DataThink.md) | [Next >>](ORIntro.md)
 
 # Finding Data
 
-[<< Previous](DataFind.md) | [Next >>]
+[<< Previous](DataThink.md) | [Next >>](ORIntro.md)
