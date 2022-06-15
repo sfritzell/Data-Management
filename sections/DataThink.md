@@ -1,3 +1,5 @@
+[Next >>](sections/DataFind.md)
+
 # Thinking about Data
 
 What is a dataset? Where can we find raw data? How do we know whether the data is “good” or if it needs to be cleaned before it can be analyzed? These are some of the questions that we need to answer before looking at examples of how to explore a dataset and transform it from its “raw” form into something that can be used for a Digital Scholarship project.
@@ -25,3 +27,5 @@ Most of the time when we talk about "data" we are really talking about a "datase
 **A quick exercise**: think of some datasets that you have encountered before, for a class, a project, or while keeping track of your own personal information.  What forms did these datasets take? How were they organized?
 
 **Another quick exercise**: what in your own research relies on grouping objects of study into meaningful categories? What might include quantitative data, whether discontinuous or continuous?
+
+[Next >>](sections/DataFind.md)
