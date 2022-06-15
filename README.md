@@ -1,5 +1,5 @@
 # Data-Management
-A tutorial on data-management basics using OpenRefine, adapted from a 2017 Data Managment workshop designed by Rachael Starry and the [tri-cods tidy-data workshop](https://github.com/tri-cods/tidy-data).
+A tutorial on data-management basics using OpenRefine. Adapted from a 2017 Data Managment workshop designed by Rachael Starry and the [tri-cods tidy-data workshop](https://github.com/tri-cods/tidy-data).
 
 As scholars seeking to use digital methods in our research, we need to understand how we can make both quantitative and qualitative data machine-readable and machine-usable. But what is data anyway? What is a dataset? Where can we find raw data? How do we know whether our data is "clean" or "dirty"? How can we clean "dirty" data? These are a few of the questions which this workshop sets out to address.  
 
