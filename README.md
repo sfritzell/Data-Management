@@ -15,8 +15,8 @@ As scholars seeking to use digital methods in our research, we need to understan
 
 [Finding Data](sections/DataFind.md)
 
+[Messy & Tidy Data](sections/MessyTidy.md)
+
 [Introduction to OpenRefine](sections/ORIntro.md)
 
 [Data Cleaning](sections/DataClean.md)
-
-[Data Exploration](sections/DataExplore.md)
