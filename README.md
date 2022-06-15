@@ -8,6 +8,8 @@ As scholars seeking to use digital methods in our research, we need to understan
 - Discover where and how to find data online
 - Apply learned concepts in order to clean raw datasets in OpenRefine
 
+[Get Started >>](#sections/DataThink.md)
+
 ## Learning Path
 [Thinking About Data](#sections/DataThink.md)
 
