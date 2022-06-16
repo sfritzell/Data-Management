@@ -20,3 +20,10 @@ As scholars seeking to use digital methods in our research, we need to understan
 [Introduction to OpenRefine](sections/ORIntro.md)
 
 [Data Cleaning](sections/DataClean.md)
+
+---
+## Additional Resources
+
+- [OpenRefine documentation](https://docs.openrefine.org/)
+- [The European Spreadsheet Risks Interest Group](http://www.eusprig.org/) for a curious and comic collection of messy data horror stories
+
