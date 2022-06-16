@@ -72,7 +72,24 @@ GREL is a great tool for mass editing data in OpenRefine! You should refer to th
 
 ### Editing columns
 
-OpenRefine also allows you to edit columns.
+OpenRefine also allows you to edit columns. Some common column operations are **splitting** - for example, if you need to create seperate columns for first and last name from one general "name" column - **joining** - if there are several columns for catetory-type values that you need combine into a single "category" column - and **adding a column based on another column**.  Let's apply this third opperation to our data set to create a new column for "date-range".
 
+From the caret in the **last_appeared** column, click on `Edit column` and select `Add column based on this column...`. In the window that opens, name this new column "date-range" (or something similar). Make sure that GREL is selected from the drop down menu and type the following into the expression box: `cells["first_appeared"].value + "-" + cells["last_appeared"].value`. Why do you think `"-"` is included in the expression?
+
+## Practice with OpenRefine
+
+Using the tools introduced so far, spend some time further cleaning and refining your dataset. Some things you might consider (but only if they make sense!):
+- remove non-alpha characters from the contents in the **name** column
+- rename columns to be more precise
+- remove or collapse irrelevant columns
+- remove all entries that contain a null or empty entry for some variable
+
+Make liberal use of the faceting tools to explore and identify patterns (and problems!) in your data. It is also possible to **star** or **flag** a subset of entries identified in a facet for mass editing!
+
+If you're not sure about a particular operation, refer to the [OpenRefine documentation](https://docs.openrefine.org/). 
+
+When you have finished cleaning our dataset(s) you should export a copy of it. Click on `Export` in the upper right-hand corner and select the file format of your choice.  If you don't want to export the full dataset, click on `Custom tabular explorer...`.  With the custom tabular explorer you have the option to select which data to export (and in what order) as well as a choice of file formats (among other things). 
+
+Once you have exported your cleaned dataset, don't forget to open it in a text editor like VSCode or in Excel to ensure that everything has transferred properly.
 
 [<< Previous](ORIntro.md)
