@@ -25,5 +25,7 @@ As scholars seeking to use digital methods in our research, we need to understan
 ## Additional Resources
 
 - [OpenRefine documentation](https://docs.openrefine.org/)
+- [Cleaning Data with OpenRefine lesson](https://programminghistorian.org/en/lessons/cleaning-data-with-openrefine) from Programming Historian
+- ["Tidy Data"](https://www.jstatsoft.org/article/view/v059i10/) by Hadley Wickham
 - [The European Spreadsheet Risks Interest Group](http://www.eusprig.org/) for a curious and comic collection of messy data horror stories
 
