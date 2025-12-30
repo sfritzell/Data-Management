@@ -8,20 +8,17 @@ As scholars seeking to use digital methods in our research, we need to understan
 - Discover where and how to find data online
 - Apply learned concepts in order to clean raw datasets in OpenRefine
 
-[Get Started >>](sections/DataThink.md)
-
 ## Learning Path
-[Thinking About Data](sections/DataThink.md)
+1. [Thinking About Data](sections/DataThink.md)
 
-[Finding Data](sections/DataFind.md)
+2. [Finding Data](sections/DataFind.md)
 
-[Messy & Tidy Data](sections/MessyTidy.md)
+3. [Messy & Tidy Data](sections/MessyTidy.md)
 
-[Introduction to OpenRefine](sections/ORIntro.md)
+4. [Introduction to OpenRefine](sections/ORIntro.md)
 
-[Data Cleaning](sections/DataClean.md)
+5. [Data Cleaning](sections/DataClean.md)
 
----
 ## Additional Resources
 
 - [OpenRefine documentation](https://docs.openrefine.org/)
@@ -29,3 +26,6 @@ As scholars seeking to use digital methods in our research, we need to understan
 - ["Tidy Data"](https://www.jstatsoft.org/article/view/v059i10/) by Hadley Wickham
 - [The European Spreadsheet Risks Interest Group](http://www.eusprig.org/) for a curious and comic collection of messy data horror stories
 
+---
+
+[Get Started >>](sections/DataThink.md)
