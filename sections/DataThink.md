@@ -1,4 +1,4 @@
-[Next >>](DataFind.md)
+[<< Home](../README.md) | [Next >>](DataFind.md)
 
 # Thinking about Data
 
@@ -28,4 +28,4 @@ Most of the time when we talk about "data" we are really talking about a "datase
 
 **Another quick exercise**: what in your own research relies on grouping objects of study into meaningful categories? What might include quantitative data, whether discontinuous or continuous?
 
-[Next >>](DataFind.md)
+[<< Home](../README.md) | [Next >>](DataFind.md)
