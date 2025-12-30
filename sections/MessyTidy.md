@@ -14,7 +14,7 @@ Thinking tidily is helpful for anybody working with data, but particularly for t
 
 ## Why is (humanities) data so messy?
 
-Humanities data is notoriously messy for a variety of reasons. Depending on their field, researches may be accustomed to differing ways of conducting scholarship, making arguments, and citing their sources. An art historian and an archaeologist may look at the same sculpture, but their ways of discussing that same work of art with differ greatly. 
+Humanities data is notoriously messy for a variety of reasons. Depending on their field, researches may be accustomed to differing ways of conducting scholarship, making arguments, and citing their sources. An art historian and an archaeologist may look at the same sculpture, but their ways of discussing that same work of art will differ greatly. 
 
 **A quick exercise**: write out today's date and the current time on a slip of paper. Compare your slip with that of others. What do you notice?
 
