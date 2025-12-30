@@ -1,4 +1,4 @@
-[<< Previous](ORIntro.md)
+[<< Previous](ORIntro.md) | [Home >>](../README.md)
 
 # Data Cleaning with OpenRefine
 
@@ -92,4 +92,4 @@ When you have finished cleaning our dataset(s) you should export a copy of it. C
 
 Once you have exported your cleaned dataset, don't forget to open it in a text editor like VSCode or in Excel to ensure that everything has transferred properly.
 
-[<< Previous](ORIntro.md)
+[<< Previous](ORIntro.md) | [Home >>](../README.md)
